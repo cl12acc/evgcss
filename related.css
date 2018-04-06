@@ -1,0 +1,4 @@
+.promo{height: 900; width: 1000px;}
+.promo ul{max-width:150px; border: 2px solid; border-radius: 8px; list-style: none; padding: 10 0 0 10; margin: 10 0 0 10px}
+.pmimg{ background-image:url(https://thumbs2.ebaystatic.com/pict/1118467384974040_7.jpg); background-repeat: no-repeat; height: 150px; width: 150px; list-style: none; display: inline-block;}
+.pmtxt:before{content: "Ink Matte White"; font-weight: bold; font-size: 20px;  }
